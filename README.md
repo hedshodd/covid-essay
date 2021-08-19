@@ -13,9 +13,9 @@ twitlonger, because regular twitter just isn't the right format to teach someone
 
 I will, therefor, start with an introduction to how dice work, basics of evolution and how
 statistics comes into play. Then I will put this all into context, explaining why the delta variant
-was able to show up, even despite vaccines, what the f\*\*\* breakthrough cases are, and why
-everyone that does not have a medical reason to not take the vaccine I wouldn't shed tear over if
-they went to jail or face any other form of federal punishment.
+was able to show up, even despite vaccines, and then go over things like the possible precedent for
+vaccine mandates, why comparing the flu and covid is really dumb, and I will be repeating over and
+over again, why this stuff essentially is like rolling dice.
 
 ## STATISTICS
 
